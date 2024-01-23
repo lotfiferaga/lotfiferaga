@@ -7,17 +7,8 @@ I am a dedicated Data Engineer with a focus on BI and data processing. My expert
 ## Skills
 
 - **Data Integration and BI:** Talend 
-- **Programming Languages:**
-  - Python 🐍
-  - Scala
-  - Java ☕
-  - C
-  - C#
-  - MATLAB
-- **Databases:**
-  - Oracle Database 🛢️
-  - MySQL
-  - MongoDB 🍃
+- **Programming Languages:** Python 🐍, Scala, Java ☕, C, C#, MATLAB
+- **Databases:** Oracle Database 🛢️, MySQL, MongoDB 🍃
 - **Machine Learning/Deep Learning:**
   - Python 🐍
   - TensorFlow 🤖
