@@ -33,16 +33,6 @@ I am a dedicated Data Engineer with a focus on BI and data processing. My expert
   - Google Cloud Platform ☁️
   - IBM Cloud ☁️
   - Docker 🐳
-- **Development Tools:**
-  - IntelliJ IDEA
-  - Visual Studio 💻
-  - Visual Studio Code 💻
-  - Eclipse 🌒
-- **Web Development:**
-  - HTML
-  - CSS
-  - JavaScript
-  - PHP
-  - Bootstrap 🅱️
-  - ReactJS ⚛️
+- **Development Tools:** IntelliJ IDEA, Visual Studio 💻, Visual Studio Code 💻, Eclipse 🌒
+- **Web Development:** HTML, CSS, JavaScript, PHP, Bootstrap 🅱️, ReactJS ⚛️
 
