@@ -1,7 +1,5 @@
 # Hello! 👋
 
-## About Me
-
 I am a dedicated Data Engineer with a focus on BI and data processing. My expertise spans a variety of technologies and tools, enabling me to design and implement efficient data solutions. Here are some of my key skills:
 
 ## Skills
